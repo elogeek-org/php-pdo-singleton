@@ -1,0 +1,22 @@
+{
+    "name": "elogeek/php-pdo-singleton",
+    "description": "Easy Way to connect to MySql using PDO",
+    "type": "library",
+    "require-dev": {
+        "no": "no"
+    },
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Elogeek\\PhpPdoSingleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elodie",
+            "email": "elodiechristin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
