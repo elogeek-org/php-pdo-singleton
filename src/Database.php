@@ -1,5 +1,5 @@
 <?php
-namespace Elodie\PhpPdoSingleton;
+namespace Elogeek\PhpPdoSingleton;
 
 use PDO;
 use PDOException;
